@@ -94,7 +94,3 @@ This project demonstrates an end-to-end data engineering solution built using Mi
 - Power BI Desktop installed locally.  
 - Python environment for running Databricks and Key Vault scripts.  
 
-### **2. Steps to Set Up**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/frankadane/azure-data-engineering-pipeline.git
